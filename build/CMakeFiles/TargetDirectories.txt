@@ -1,0 +1,12 @@
+/home/peterc/Projects/hls/build/CMakeFiles/intrinsics_gen.dir
+/home/peterc/Projects/hls/build/CMakeFiles/vt_gen.dir
+/home/peterc/Projects/hls/build/CMakeFiles/omp_gen.dir
+/home/peterc/Projects/hls/build/CMakeFiles/acc_gen.dir
+/home/peterc/Projects/hls/build/CMakeFiles/target_parser_gen.dir
+/home/peterc/Projects/hls/build/CMakeFiles/mlir-tablegen-targets.dir
+/home/peterc/Projects/hls/build/CMakeFiles/mlir-headers.dir
+/home/peterc/Projects/hls/build/CMakeFiles/mlir-generic-headers.dir
+/home/peterc/Projects/hls/build/CMakeFiles/mlir-doc.dir
+/home/peterc/Projects/hls/build/CMakeFiles/hls.dir
+/home/peterc/Projects/hls/build/CMakeFiles/edit_cache.dir
+/home/peterc/Projects/hls/build/CMakeFiles/rebuild_cache.dir
